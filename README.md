@@ -34,8 +34,7 @@ Welcome to Social Book, a social media app that connects you with friends and pr
 
 1. Clone the repository: `git clone https://github.com/Blairnation/social-media-app/.git`
 2. Navigate to the project folder: `cd social-book`
-3. Build and run Docker containers: `docker-compose up --build`
-4. Access the app at [http://localhost:8000](http://localhost:8000)
+3. Access the app at [http://localhost:8000](http://localhost:8000)
 
 ## Contributing
 
